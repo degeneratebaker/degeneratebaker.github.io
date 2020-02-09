@@ -1,0 +1,8 @@
+{
+  "script" : "npm run serve",
+  "actions" : [
+    "run"
+  ],
+  "identifier" : "D31267B1-0728-4758-BC71-9C46E9059601",
+  "openLogOnRun" : "start"
+}
